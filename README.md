@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iDzdHPNrlBXJRoIgScrFH_MOOSD0brdJ/view?usp=share_link](https://drive.google.com/file/d/1iDzdHPNrlBXJRoIgScrFH_MOOSD0brdJ/view?usp=share_link)
 
-- ⚡ Takeaway's from my life & Programmer community **In life, be prepared for the worst-case scenario, just as developers tackle problems with worst case time-complexity in mind.**
+- ⚡ Takeaway's from my life & Programmer community : **In life, be prepared for the worst-case scenario, just as developers tackle problems with worst case time-complexity in mind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
